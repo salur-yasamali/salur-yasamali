@@ -1,16 +1,19 @@
-## Hi there 👋
+### Merhaba! 👋 Ben Salur.
 
-<!--
-**salur-yasamali/salur-yasamali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+İşletme eğitimimin sağladığı analitik bakış açısını, teknik becerilerle birleştirerek "Veri Analisti" olma yolunda ilerliyorum.
 
-Here are some ideas to get you started:
+- 🎓 YTÜ **İşletme Bölümü** son sınıf öğrencisiyim.
+- 🎯 Hedefim: Veriyi analiz ederek ve anlamlı içgörülere dönüştürerek şirketlerin stratejik kararlarına rehberlik etmek.
+- 💡 Şu an **SQL** (MS SQL Server) ve **Python** (Pandas) üzerine yoğunlaşıyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Teknik Becerilerim (Tech Stack)
+
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+---
+
+### 📫 Bana Ulaşın
+
+- **LinkedIn:** [linkedin.com/in/salur-yasamali-XXXXXXXX]([LINKEDIN-PROFIL-URLN])
