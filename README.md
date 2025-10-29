@@ -16,4 +16,4 @@
 
 ### 📫 Bana Ulaşın
 
-- **LinkedIn:** [linkedin.com/in/salur-yasamali-XXXXXXXX]([LINKEDIN-PROFIL-URLN])
+- **LinkedIn:** ([(https://www.linkedin.com/in/salur-ya%C5%9Famal%C4%B1-185a42396/)])
