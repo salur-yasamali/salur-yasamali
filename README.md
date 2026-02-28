@@ -1,19 +1,27 @@
 ### Merhaba! 👋 Ben Salur.
 
-İşletme eğitimimin sağladığı analitik bakış açısını, teknik becerilerle birleştirerek "Veri Analisti" olma yolunda ilerliyorum.
+Ticaretin mutfağından gelen saha tecrübesini, verinin gücüyle birleştiren **Veri Odaklı Ürün Yöneticisi (Data-Driven PM)** adayıyım.
 
 - 🎓 YTÜ **İşletme Bölümü** son sınıf öğrencisiyim.
-- 🎯 Hedefim: Veriyi analiz ederek ve anlamlı içgörülere dönüştürerek şirketlerin stratejik kararlarına rehberlik etmek.
-- 💡 Şu an **SQL** (MS SQL Server) ve **Python** (Pandas) üzerine yoğunlaşıyorum.
+- 🎯 **Hedefim:** Ticari ve KOBİ pazar dinamiklerini veri analitiği (SQL/Python) ile okuyarak; müşteri acı noktalarını (pain points) çözen ve kuruma doğrudan kârlılık (P&L) katacak ürün stratejilerine liderlik etmek.
+-💼 Ticaret ve Saha Vizyonum: Ailemin gayrimenkul/otomotiv ticareti geçmişinden edindiğim KOBİ ve P&L (kâr/zarar) vizyonunu; Kuveyt Türk veznesinde edindiğim Bireysel Bankacılık ve mikro-esnaf müşteri deneyimiyle harmanlıyorum. Şube müdürünün BES ve çapraz satış hedeflerini (KPI) sahada solumuş bir adayım.
+- 💡 **Araçlarım:** Ürün kararlarını içgüdülerle değil, somut verilerle almak için **SQL** (MS SQL Server) ve **Python** (Pandas) yetkinliklerimi kullanıyorum.
 
 ---
 
-### 🛠️ Teknik Becerilerim (Tech Stack)
+### 📦 Ürün Vaka Çalışmaları (Product Case Studies)
+*Buradaki projelerim sadece birer kod dizini değil; "Bu analiz müşterinin hangi problemini çözer ve bankaya nasıl para kazandırır?" sorularının veriyle verilmiş cevaplarıdır.*
+
+*(Yakında eklenecek...)*
+
+---
+
+### 🛠 Teknik Becerilerim (Tech Stack)
 
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
----
 
+---
 ### 📫 Bana Ulaşın
 
 - **LinkedIn:** ([(https://www.linkedin.com/in/salur-ya%C5%9Famal%C4%B1-185a42396/)])
