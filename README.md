@@ -4,6 +4,7 @@ Ticaretin mutfağından gelen saha tecrübesini, verinin gücüyle birleştiren 
 
 - 🎓 YTÜ **İşletme Bölümü** son sınıf öğrencisiyim.
 - 🎯 **Hedefim:** Ticari ve KOBİ pazar dinamiklerini veri analitiği (SQL/Python) ile okuyarak; müşteri acı noktalarını (pain points) çözen ve kuruma doğrudan kârlılık (P&L) katacak ürün stratejilerine liderlik etmek.
+- 
 -💼 Ticaret ve Saha Vizyonum: Ailemin gayrimenkul/otomotiv ticareti geçmişinden edindiğim KOBİ ve P&L (kâr/zarar) vizyonunu; Kuveyt Türk veznesinde edindiğim Bireysel Bankacılık ve mikro-esnaf müşteri deneyimiyle harmanlıyorum. Şube müdürünün BES ve çapraz satış hedeflerini (KPI) sahada solumuş bir adayım.
 - 💡 **Araçlarım:** Ürün kararlarını içgüdülerle değil, somut verilerle almak için **SQL** (MS SQL Server) ve **Python** (Pandas) yetkinliklerimi kullanıyorum.
 
